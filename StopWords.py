@@ -9,8 +9,7 @@
         - The nltk tokenizer is used to split the text into words
     ---------
     Variables returned:
-        - a Python Dictionnary is the only data structure we used to return and use variable 
-        because it defines the context variable in django that we will use in out templates
+        -a Python Dictionnary is returned as a json file in the same path as this code file
     ---------
     Structure of the file:
         - Containes two functs to spot stopwords with two diffrent ways
